@@ -6,3 +6,6 @@ and other stuff.
 Right now Im creating some recipes food based on the Odin Project Fundation Curriculum
 
 Currently drop one recipe page : Pasta Carbonara
+I set up the Beef Tacos recipe and the Hamburger Buns recipe.
+
+HTML complete
